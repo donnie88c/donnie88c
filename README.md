@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Doncho</h1>
-- 📫 How to reach me **https://www.linkedin.com/in/doncho-ganev-45ba51332/ and of course you can reach me to me email:cs_neeko@yahoo.com**
 
 - ⚡ Fun fact **I write more comments in code than in real life 😅**
 
