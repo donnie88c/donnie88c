@@ -1,6 +1,6 @@
 🐐
-- ⚡ Fun fact **I write more comments in code than in real life 😅**
-
+ 
+"Mastering the best of what other people have already figured out,"
 
 
 <h3 align="left">Languages and Tools:</h3>
