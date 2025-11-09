@@ -3,7 +3,7 @@
 "Mastering the best of what other people have already figured out,"
 
 
-<h1 align="center">Hi 👋, I'm Doncho</h1>
+
 - 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/doncho-ganev-45ba51332/ cs_neeko@yahoo.com**
