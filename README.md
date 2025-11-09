@@ -4,7 +4,6 @@
 
 
 
-- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/doncho-ganev-45ba51332/ cs_neeko@yahoo.com**
 
