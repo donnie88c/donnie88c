@@ -1,24 +1,15 @@
-🐐
+
  
-"Mastering the best of what other people have already figured out,"
-
-
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/doncho-ganev-45ba51332/ cs_neeko@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
-cs_neeko@yahoo.com**
 
-<h1 align="center">Hi 👋, I'm Doncho</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
-
-<h3 align="left">Connect with me:</h3>
-cs_neeko@yahoo.com
 <h1 align="center">Hi 👋, I'm Doncho</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>Ï
 
 <h3 align="left">Connect with me:</h3>
+cs_neeko@yahoo.com
 <p align="left">
 </p>
 
